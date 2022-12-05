@@ -1,36 +1,22 @@
+
+# █▀█ █▀▀ ▄▀█ █▀▄ █▀▄▀█ █▀▀    █▀▀ █▀▀ █▄░█ █▀▀ █▀█ ▄▀█ ▀█▀ █▀█ █▀█ 
+# █▀▄ ██▄ █▀█ █▄▀ █░▀░█ ██▄    █▄█ ██▄ █░▀█ ██▄ █▀▄ █▀█ ░█░ █▄█ █▀▄ 
+
 from email.mime import image
 import os
-
-image_folders = [ 
-    "catppuccin/dark", 
-    "catppuccin/light", 
-    "dracula/dark", 
-    "dracula/light", 
-    "gruvbox", 
-    "gruvbox/dark", 
-    "gruvbox/light", 
-    "kanagawa", 
-    "kanagawa/dark", 
-    "kanagawa/light", 
-    "misc", 
-    "misc/polyphia", 
-    "monochrome", 
-    "nord", 
-    "nord/dark", 
-    "nord/light", 
-    "tokyonight", 
-    "tokyonight/dark", 
-    "tokyonight/light", 
-    "unsorted" 
-]
-
-image_folders.sort()
-print(image_folders)
+from glob import glob
 
 pre = """
-# welcome to my personal wallpaper dump
+# welcome to my personal collection of wallpapers
 
-## previews
+walls are sorted by theme or category and then by light/dark.  
+if it doesn't fit into a theme, it goes into the `by_color` folder or stays unsorted.  
+
+check out [yoru, my personal favorite colorscheme](#yoru)
+
+# Previews
+previews are formatted for viewing on desktop.  
+
 <hr>
 <p align="center">
 """
@@ -38,20 +24,69 @@ pre = """
 post = """
 </p>
 """
+
+ext = [".jpg", ".jpeg", ".png", ".gif", ".webp", ".webm", ".avif"]
+
+imagecount = 0
+
 with open("./readme.md", "w") as f:
     f.write(pre)
 
-def image_embed(title,folder,img):
-    return f"""<img src="./{folder}/{img}" title="{title}"><br>\n"""
+def wall_embed(title,path):
+    return f"""| <img src="{path}" title="{title}" width="300" height="160"> """
+
+def palette_embed(title, path):
+    return f"""<img src="{path}" title="{title}">"""
+
+def get_palette(title):
+    return "palette/" + title + ".png"
+
+def new_table_section():
+    return "\n\n| | | |\n|:---------:|:---------:|:----------:|\n"
 
 with open("./readme.md", "a") as readme:
-    for folder in image_folders:
-        readme.write("\n\n## " + folder + "\n")
-        readme.write("<details><summary></summary>\n")
-        for file in os.listdir(folder):
-            if file.endswith(".jpg") or file.endswith(".png") or file.endswith(".gif") or file.endswith(".webp") or file.endswith(".webm"):
+    # get top level directories
+    rootdir = '.'
+    directory_list = list()
+    for file in os.listdir(rootdir):
+        d = os.path.join(rootdir, file)
+        if os.path.isdir(d) and d != "./.git" and d != "./palette":
+            directory_list.append(d)
+
+    # sort directories in alphabetical order
+    directory_list.sort()
+
+    for d in directory_list:
+        themename = d.lstrip(d[0:2])
+        readme.write("\n\n## " + themename)
+        
+        # embed palette preview images
+        palette_preview = get_palette(themename)
+        if os.path.exists(palette_preview):
+            readme.write("\n")
+            readme.write(palette_embed(themename, palette_preview))
+
+        # to show/hide table
+        readme.write("\n<details><summary></summary>")
+       
+        # add images to table
+        readme.write(new_table_section())
+        gridcount = 0
+        for file in glob(d + "/**", recursive = True):
+            imagecount += 1
+            if file.endswith(tuple(ext)):
                 readme.write(
-                    image_embed(file[:-4], folder, file)
+                    wall_embed(file[:-4], file)
                 )
-        readme.write("</details>\n")
+                gridcount += 1
+  
+                if gridcount == 4:
+                    gridcount = 0
+                    readme.write("|\n")
+  
+        # end show/hide table
+        readme.write("\n</details>")
+  
     readme.write(post)
+
+print("you have "+str(imagecount)+" images")
