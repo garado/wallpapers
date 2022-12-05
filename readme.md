@@ -6,12 +6,23 @@
 <p align="center">
 
 
-## catppuccin
+## catppuccin/dark
 <details><summary></summary>
 </details>
 
 
-## dracula
+## catppuccin/light
+<details><summary></summary>
+</details>
+
+
+## dracula/dark
+<details><summary></summary>
+<img src="./dracula/dark/arch_00.png" title="arch_00"><br>
+</details>
+
+
+## dracula/light
 <details><summary></summary>
 </details>
 
@@ -22,13 +33,53 @@
 </details>
 
 
+## gruvbox/dark
+<details><summary></summary>
+<img src="./gruvbox/dark/paris.png" title="paris"><br>
+<img src="./gruvbox/dark/alley.jpg" title="alley"><br>
+<img src="./gruvbox/dark/serocs.png" title="serocs"><br>
+<img src="./gruvbox/dark/leaves_00.png" title="leaves_00"><br>
+</details>
+
+
+## gruvbox/light
+<details><summary></summary>
+<img src="./gruvbox/light/arch_00.png" title="arch_00"><br>
+<img src="./gruvbox/light/kiwi.jpg" title="kiwi"><br>
+<img src="./gruvbox/light/skull.png" title="skull"><br>
+<img src="./gruvbox/light/painting_00.png" title="painting_00"><br>
+</details>
+
+
 ## kanagawa
+<details><summary></summary>
+</details>
+
+
+## kanagawa/dark
+<details><summary></summary>
+<img src="./kanagawa/dark/hokusai_00.png" title="hokusai_00"><br>
+</details>
+
+
+## kanagawa/light
 <details><summary></summary>
 </details>
 
 
 ## misc
 <details><summary></summary>
+</details>
+
+
+## misc/polyphia
+<details><summary></summary>
+<img src="./misc/polyphia/polyphia_rtywd_tracklist.jpg" title="polyphia_rtywd_tracklist"><br>
+<img src="./misc/polyphia/polyphia_muse_muted.jpg" title="polyphia_muse_muted"><br>
+<img src="./misc/polyphia/polyphia_nlnd_tour.jpg" title="polyphia_nlnd_tour"><br>
+<img src="./misc/polyphia/polyphia_muse.jpg" title="polyphia_muse"><br>
+<img src="./misc/polyphia/polyphia_playing_god.jpg" title="polyphia_playing_god"><br>
+<img src="./misc/polyphia/polyphia_goat_alt.jpg" title="polyphia_goat_alt"><br>
 </details>
 
 
@@ -55,7 +106,50 @@
 </details>
 
 
+## nord/dark
+<details><summary></summary>
+<img src="./nord/dark/space_01.png" title="space_01"><br>
+<img src="./nord/dark/waves_01.png" title="waves_01"><br>
+<img src="./nord/dark/waves_00.png" title="waves_00"><br>
+<img src="./nord/dark/fish_01.png" title="fish_01"><br>
+<img src="./nord/dark/space_02.png" title="space_02"><br>
+<img src="./nord/dark/dosomethinggreat.png" title="dosomethinggreat"><br>
+<img src="./nord/dark/japan_01.png" title="japan_01"><br>
+<img src="./nord/dark/japan_00.png" title="japan_00"><br>
+<img src="./nord/dark/leafhelmet.png" title="leafhelmet"><br>
+<img src="./nord/dark/herakles.png" title="herakles"><br>
+<img src="./nord/dark/mountain_00.png" title="mountain_00"><br>
+<img src="./nord/dark/anime_00.png" title="anime_00"><br>
+<img src="./nord/dark/japan_02.png" title="japan_02"><br>
+<img src="./nord/dark/golden_gate.png" title="golden_gate"><br>
+<img src="./nord/dark/space_00.png" title="space_00"><br>
+<img src="./nord/dark/fish_00.png" title="fish_00"><br>
+<img src="./nord/dark/dune.png" title="dune"><br>
+</details>
+
+
+## nord/light
+<details><summary></summary>
+<img src="./nord/light/chip.png" title="chip"><br>
+<img src="./nord/light/sushiswitch_2.png" title="sushiswitch_2"><br>
+<img src="./nord/light/sushiswitch_1.png" title="sushiswitch_1"><br>
+</details>
+
+
 ## tokyonight
+<details><summary></summary>
+</details>
+
+
+## tokyonight/dark
+<details><summary></summary>
+<img src="./tokyonight/dark/rototrash-endeavour_astronaut.png" title="rototrash-endeavour_astronaut"><br>
+<img src="./tokyonight/dark/another_planet.png" title="another_planet"><br>
+<img src="./tokyonight/dark/minimalist-planets.jpg" title="minimalist-planets"><br>
+</details>
+
+
+## tokyonight/light
 <details><summary></summary>
 </details>
 
