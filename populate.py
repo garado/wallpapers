@@ -12,7 +12,7 @@ pre = """
 walls are sorted by theme or category and then by light/dark.  
 if it doesn't fit into a theme, it goes into the `by_color` folder or stays unsorted.  
 
-check out [yoru, my personal favorite colorscheme](#yoru)
+check out [decay, my personal favorite collection](#decay)
 
 # Previews
 previews are formatted for viewing on desktop.  
