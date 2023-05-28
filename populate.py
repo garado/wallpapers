@@ -7,15 +7,14 @@ import os
 from glob import glob
 
 pre = """
-# welcome to my personal collection of wallpapers
+# Welcome to my personal collection of wallpapers
 
-walls are sorted by theme or category and then by light/dark.  
-if it doesn't fit into a theme, it goes into the `by_color` folder or stays unsorted.  
+This satisfies my intrinsic need to sort things. Walls are sorted by theme or category and then by light/dark. If it doesn't fit into a theme, it goes into the `by_color` folder or stays unsorted.
 
-check out [decay, my personal favorite collection](#decay)
+Check out [decay, my personal favorite collection](#decay)
 
 # Previews
-previews are formatted for viewing on desktop.  
+Previews are formatted for viewing on desktop. Sorry to you non-desktop people.
 
 <hr>
 <p align="center">
