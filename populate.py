@@ -11,7 +11,7 @@ pre = """
 
 This satisfies my intrinsic need to sort things. Walls are sorted by theme or category and then by light/dark. If it doesn't fit into a theme, it goes into the `by_color` folder or stays unsorted.
 
-Check out [decay, my personal favorite collection](#decay)
+Check out [mountain, my personal favorite collection](#mountain)
 
 # Previews
 Previews are formatted for viewing on desktop. Sorry to you non-desktop people.
