@@ -9,12 +9,12 @@ from glob import glob
 pre = """
 # Welcome to my personal collection of wallpapers
 
-This satisfies my intrinsic need to sort things. Walls are sorted by theme or category and then by light/dark. If it doesn't fit into a theme, it goes into the `by_color` folder or stays unsorted.
+Vetted for perfection and sorted by theme/category.
 
 Check out [mountain, my personal favorite collection](#mountain)
 
 # Previews
-Previews are formatted for viewing on desktop. Sorry to you non-desktop people.
+Previews are formatted for viewing on desktop.
 
 <hr>
 <p align="center">
@@ -49,7 +49,7 @@ with open("./readme.md", "a") as readme:
     directory_list = list()
     for file in os.listdir(rootdir):
         d = os.path.join(rootdir, file)
-        if os.path.isdir(d) and d != "./.git" and d != "./palette":
+        if os.path.isdir(d) and d != "./.git" and d != "./palette" and d != "./unvetted":
             directory_list.append(d)
 
     # sort directories in alphabetical order
