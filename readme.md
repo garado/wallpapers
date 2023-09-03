@@ -12,15 +12,25 @@ Previews are formatted for viewing on desktop.
 <p align="center">
 
 
+## gruvbox
+<img src="palette/gruvbox.png" title="gruvbox">
+<details><summary></summary>
+
+| | | |
+|:---------:|:---------:|:----------:|
+| <img src="./gruvbox/paris.png" title="./gruvbox/paris" width="300" height="160"> | <img src="./gruvbox/whale.png" title="./gruvbox/whale" width="300" height="160"> | <img src="./gruvbox/serocs.png" title="./gruvbox/serocs" width="300" height="160"> | <img src="./gruvbox/cityscape.png" title="./gruvbox/cityscape" width="300" height="160"> |
+
+</details>
+
 ## monochrome
 <details><summary></summary>
 
 | | | |
 |:---------:|:---------:|:----------:|
 | <img src="./monochrome/nature/mountain_01.jpg" title="./monochrome/nature/mountain_01" width="300" height="160"> | <img src="./monochrome/nature/mountain_02.png" title="./monochrome/nature/mountain_02" width="300" height="160"> | <img src="./monochrome/nature/waves.jpeg" title="./monochrome/nature/waves." width="300" height="160"> | <img src="./monochrome/nature/mountain_00.jpg" title="./monochrome/nature/mountain_00" width="300" height="160"> |
-| <img src="./monochrome/illustrated/berserk_02.jpg" title="./monochrome/illustrated/berserk_02" width="300" height="160"> | <img src="./monochrome/illustrated/berserk_03.jpeg" title="./monochrome/illustrated/berserk_03." width="300" height="160"> | <img src="./monochrome/illustrated/cult_hands.png" title="./monochrome/illustrated/cult_hands" width="300" height="160"> | <img src="./monochrome/illustrated/cult.jpg" title="./monochrome/illustrated/cult" width="300" height="160"> |
-| <img src="./monochrome/illustrated/berserk_01.png" title="./monochrome/illustrated/berserk_01" width="300" height="160"> | <img src="./monochrome/illustrated/junjiito_00.jpg" title="./monochrome/illustrated/junjiito_00" width="300" height="160"> | <img src="./monochrome/illustrated/skeleton.png" title="./monochrome/illustrated/skeleton" width="300" height="160"> | <img src="./monochrome/illustrated/berserk_00.jpeg" title="./monochrome/illustrated/berserk_00." width="300" height="160"> |
-| <img src="./monochrome/illustrated/arm.png" title="./monochrome/illustrated/arm" width="300" height="160"> | <img src="./monochrome/space_cowboy_00.jpeg" title="./monochrome/space_cowboy_00." width="300" height="160"> | <img src="./monochrome/suicideboys.png" title="./monochrome/suicideboys" width="300" height="160"> | <img src="./monochrome/fork_bomb.png" title="./monochrome/fork_bomb" width="300" height="160"> |
+| <img src="./monochrome/illustrated/berserk_02.jpg" title="./monochrome/illustrated/berserk_02" width="300" height="160"> | <img src="./monochrome/illustrated/berserk_03.jpeg" title="./monochrome/illustrated/berserk_03." width="300" height="160"> | <img src="./monochrome/illustrated/suicideboys.png" title="./monochrome/illustrated/suicideboys" width="300" height="160"> | <img src="./monochrome/illustrated/cult_hands.png" title="./monochrome/illustrated/cult_hands" width="300" height="160"> |
+| <img src="./monochrome/illustrated/cult.jpg" title="./monochrome/illustrated/cult" width="300" height="160"> | <img src="./monochrome/illustrated/berserk_01.png" title="./monochrome/illustrated/berserk_01" width="300" height="160"> | <img src="./monochrome/illustrated/junjiito_00.jpg" title="./monochrome/illustrated/junjiito_00" width="300" height="160"> | <img src="./monochrome/illustrated/skeleton.png" title="./monochrome/illustrated/skeleton" width="300" height="160"> |
+| <img src="./monochrome/illustrated/berserk_00.jpeg" title="./monochrome/illustrated/berserk_00." width="300" height="160"> | <img src="./monochrome/illustrated/arm.png" title="./monochrome/illustrated/arm" width="300" height="160"> | <img src="./monochrome/space_cowboy_00.jpeg" title="./monochrome/space_cowboy_00." width="300" height="160"> | <img src="./monochrome/fork_bomb.png" title="./monochrome/fork_bomb" width="300" height="160"> |
 | <img src="./monochrome/spooky_gas_station.jpg" title="./monochrome/spooky_gas_station" width="300" height="160"> | <img src="./monochrome/space_cowboy_01.jpeg" title="./monochrome/space_cowboy_01." width="300" height="160"> | <img src="./monochrome/marcus_aurelius_1.jpg" title="./monochrome/marcus_aurelius_1" width="300" height="160"> | <img src="./monochrome/streetlights.jpg" title="./monochrome/streetlights" width="300" height="160"> |
 | <img src="./monochrome/marcus_aurelius_0.png" title="./monochrome/marcus_aurelius_0" width="300" height="160"> 
 </details>
