@@ -46,6 +46,15 @@ Previews are formatted for viewing on desktop.
 | <img src="./mountain/serious/mountain_02.png" title="./mountain/serious/mountain_02" width="300" height="160"> | <img src="./mountain/serious/samori_01.jpg" title="./mountain/serious/samori_01" width="300" height="160"> | <img src="./mountain/fun/aspectsides.jpg" title="./mountain/fun/aspectsides" width="300" height="160"> 
 </details>
 
+## nord
+<img src="palette/nord.png" title="nord">
+<details><summary></summary>
+
+| | | |
+|:---------:|:---------:|:----------:|
+| <img src="./nord/herakles.png" title="./nord/herakles" width="300" height="160"> 
+</details>
+
 ## yoru
 <img src="palette/yoru.png" title="yoru">
 <details><summary></summary>
