@@ -9,7 +9,7 @@ from glob import glob
 pre = """
 # Welcome to my personal collection of wallpapers
 
-Vetted for perfection and sorted by theme/category.
+Scavenged from all corners of the Internet and vetted for perfection.
 
 Check out [mountain, my personal favorite collection](#mountain)
 
