@@ -41,7 +41,7 @@ Previews are formatted for viewing on desktop.
 | | | |
 |:---------:|:---------:|:----------:|
 | <img src="./kanagawa/mountain_02.jpg" title="./kanagawa/mountain_02" width="300" height="160"> | <img src="./kanagawa/landscape_01.jpg" title="./kanagawa/landscape_01" width="300" height="160"> | <img src="./kanagawa/kanagawa.png" title="./kanagawa/kanagawa" width="300" height="160"> | <img src="./kanagawa/sky_01.jpg" title="./kanagawa/sky_01" width="300" height="160"> |
-| <img src="./kanagawa/mountain_01.jpg" title="./kanagawa/mountain_01" width="300" height="160"> | <img src="./kanagawa/nvim_hebrew.png" title="./kanagawa/nvim_hebrew" width="300" height="160"> | <img src="./kanagawa/rain_lightning.jpg" title="./kanagawa/rain_lightning" width="300" height="160"> | <img src="./kanagawa/2079532781_4b04915a3e_o.jpg" title="./kanagawa/2079532781_4b04915a3e_o" width="300" height="160"> |
+| <img src="./kanagawa/mountain_03.jpg" title="./kanagawa/mountain_03" width="300" height="160"> | <img src="./kanagawa/mountain_01.jpg" title="./kanagawa/mountain_01" width="300" height="160"> | <img src="./kanagawa/rain_lightning.jpg" title="./kanagawa/rain_lightning" width="300" height="160"> | <img src="./kanagawa/2079532781_4b04915a3e_o.jpg" title="./kanagawa/2079532781_4b04915a3e_o" width="300" height="160"> |
 
 </details>
 
@@ -89,8 +89,9 @@ Previews are formatted for viewing on desktop.
 | | | |
 |:---------:|:---------:|:----------:|
 | <img src="./yoru/dark/rocky_shore_03.png" title="./yoru/dark/rocky_shore_03" width="300" height="160"> | <img src="./yoru/dark/ocean.jpg" title="./yoru/dark/ocean" width="300" height="160"> | <img src="./yoru/dark/rocky_shore_01.jpg" title="./yoru/dark/rocky_shore_01" width="300" height="160"> | <img src="./yoru/dark/ice.jpg" title="./yoru/dark/ice" width="300" height="160"> |
-| <img src="./yoru/dark/shore_01.jpg" title="./yoru/dark/shore_01" width="300" height="160"> | <img src="./yoru/dark/shore_00.jpg" title="./yoru/dark/shore_00" width="300" height="160"> | <img src="./yoru/dark/mountain_01.jpg" title="./yoru/dark/mountain_01" width="300" height="160"> | <img src="./yoru/dark/fog.jpg" title="./yoru/dark/fog" width="300" height="160"> |
-| <img src="./yoru/dark/arch.jpg" title="./yoru/dark/arch" width="300" height="160"> | <img src="./yoru/dark/rocky_shore_04.jpg" title="./yoru/dark/rocky_shore_04" width="300" height="160"> | <img src="./yoru/dark/mountain_00.jpg" title="./yoru/dark/mountain_00" width="300" height="160"> | <img src="./yoru/dark/hut.jpg" title="./yoru/dark/hut" width="300" height="160"> |
-| <img src="./yoru/light/icefall.jpg" title="./yoru/light/icefall" width="300" height="160"> | <img src="./yoru/light/mountain_02.png" title="./yoru/light/mountain_02" width="300" height="160"> | <img src="./yoru/light/rocky_shore_02.png" title="./yoru/light/rocky_shore_02" width="300" height="160"> 
+| <img src="./yoru/dark/shore_00_flipped.jpg" title="./yoru/dark/shore_00_flipped" width="300" height="160"> | <img src="./yoru/dark/shore_01.jpg" title="./yoru/dark/shore_01" width="300" height="160"> | <img src="./yoru/dark/shore_00.jpg" title="./yoru/dark/shore_00" width="300" height="160"> | <img src="./yoru/dark/mountain_01.jpg" title="./yoru/dark/mountain_01" width="300" height="160"> |
+| <img src="./yoru/dark/fog.jpg" title="./yoru/dark/fog" width="300" height="160"> | <img src="./yoru/dark/arch.jpg" title="./yoru/dark/arch" width="300" height="160"> | <img src="./yoru/dark/rocky_shore_04.jpg" title="./yoru/dark/rocky_shore_04" width="300" height="160"> | <img src="./yoru/dark/mountain_00.jpg" title="./yoru/dark/mountain_00" width="300" height="160"> |
+| <img src="./yoru/dark/hut.jpg" title="./yoru/dark/hut" width="300" height="160"> | <img src="./yoru/light/icefall.jpg" title="./yoru/light/icefall" width="300" height="160"> | <img src="./yoru/light/mountain_02.png" title="./yoru/light/mountain_02" width="300" height="160"> | <img src="./yoru/light/rocky_shore_02.png" title="./yoru/light/rocky_shore_02" width="300" height="160"> |
+
 </details>
 </p>
