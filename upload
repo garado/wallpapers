@@ -1,6 +1,6 @@
 #!/bin/bash
 
 python populate.py
-git add *
+git add */*
 git commit -m "Back up files"
 git push
