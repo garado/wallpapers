@@ -31,7 +31,10 @@ Previews are formatted for viewing on desktop.
 | | | |
 |:---------:|:---------:|:----------:|
 | <img src="./gruvbox/cityscape.png" title="./gruvbox/cityscape" width="300" height="160"> | <img src="./gruvbox/paris.png" title="./gruvbox/paris" width="300" height="160"> | <img src="./gruvbox/samori_01.png" title="./gruvbox/samori_01" width="300" height="160"> | <img src="./gruvbox/whale.png" title="./gruvbox/whale" width="300" height="160"> |
-
+| <img src="./gruvbox/unsorted/river.jpg" title="./gruvbox/unsorted/river" width="300" height="160"> | <img src="./gruvbox/unsorted/ferns-green.jpg" title="./gruvbox/unsorted/ferns-green" width="300" height="160"> | <img src="./gruvbox/unsorted/forest-4.jpg" title="./gruvbox/unsorted/forest-4" width="300" height="160"> | <img src="./gruvbox/unsorted/dan-otis-OYFHT4X5isg.jpg" title="./gruvbox/unsorted/dan-otis-OYFHT4X5isg" width="300" height="160"> |
+| <img src="./gruvbox/unsorted/forest-2.jpg" title="./gruvbox/unsorted/forest-2" width="300" height="160"> | <img src="./gruvbox/unsorted/forest-mountain-cloudy-valley.png" title="./gruvbox/unsorted/forest-mountain-cloudy-valley" width="300" height="160"> | <img src="./gruvbox/unsorted/forest-foggy-misty-cloudy.jpg" title="./gruvbox/unsorted/forest-foggy-misty-cloudy" width="300" height="160"> | <img src="./gruvbox/unsorted/rockman.png" title="./gruvbox/unsorted/rockman" width="300" height="160"> |
+| <img src="./gruvbox/unsorted/gruvbox-nix.png" title="./gruvbox/unsorted/gruvbox-nix" width="300" height="160"> | <img src="./gruvbox/unsorted/houseonthesideofalake.jpg" title="./gruvbox/unsorted/houseonthesideofalake" width="300" height="160"> | <img src="./gruvbox/unsorted/canyon.jpg" title="./gruvbox/unsorted/canyon" width="300" height="160"> | <img src="./gruvbox/unsorted/forest-5.jpg" title="./gruvbox/unsorted/forest-5" width="300" height="160"> |
+| <img src="./gruvbox/unsorted/gruv-commit.png" title="./gruvbox/unsorted/gruv-commit" width="300" height="160"> 
 </details>
 
 ## kanagawa
@@ -64,10 +67,10 @@ Previews are formatted for viewing on desktop.
 
 | | | |
 |:---------:|:---------:|:----------:|
-| <img src="./mountain/serious/mountain_03_fuji.jpg" title="./mountain/serious/mountain_03_fuji" width="300" height="160"> | <img src="./mountain/serious/mountain_01.jpg" title="./mountain/serious/mountain_01" width="300" height="160"> | <img src="./mountain/serious/mountain_00.jpeg" title="./mountain/serious/mountain_00." width="300" height="160"> | <img src="./mountain/serious/samori_03.jpg" title="./mountain/serious/samori_03" width="300" height="160"> |
-| <img src="./mountain/serious/mountain_04.jpg" title="./mountain/serious/mountain_04" width="300" height="160"> | <img src="./mountain/serious/beyond_belief_lighter.jpeg" title="./mountain/serious/beyond_belief_lighter." width="300" height="160"> | <img src="./mountain/serious/samori_02.jpg" title="./mountain/serious/samori_02" width="300" height="160"> | <img src="./mountain/serious/shore.png" title="./mountain/serious/shore" width="300" height="160"> |
-| <img src="./mountain/serious/mountain_02.png" title="./mountain/serious/mountain_02" width="300" height="160"> | <img src="./mountain/serious/beyond_belief_darker.jpeg" title="./mountain/serious/beyond_belief_darker." width="300" height="160"> | <img src="./mountain/serious/samori_01.jpg" title="./mountain/serious/samori_01" width="300" height="160"> | <img src="./mountain/fun/aspectsides.jpg" title="./mountain/fun/aspectsides" width="300" height="160"> |
-
+| <img src="./mountain/serious/mountain_05.jpg" title="./mountain/serious/mountain_05" width="300" height="160"> | <img src="./mountain/serious/mountain_03_fuji.jpg" title="./mountain/serious/mountain_03_fuji" width="300" height="160"> | <img src="./mountain/serious/mountain_01.jpg" title="./mountain/serious/mountain_01" width="300" height="160"> | <img src="./mountain/serious/mountain_00.jpeg" title="./mountain/serious/mountain_00." width="300" height="160"> |
+| <img src="./mountain/serious/samori_03.jpg" title="./mountain/serious/samori_03" width="300" height="160"> | <img src="./mountain/serious/mountain_04.jpg" title="./mountain/serious/mountain_04" width="300" height="160"> | <img src="./mountain/serious/beyond_belief_lighter.jpeg" title="./mountain/serious/beyond_belief_lighter." width="300" height="160"> | <img src="./mountain/serious/samori_02.jpg" title="./mountain/serious/samori_02" width="300" height="160"> |
+| <img src="./mountain/serious/shore.png" title="./mountain/serious/shore" width="300" height="160"> | <img src="./mountain/serious/mountain_02.png" title="./mountain/serious/mountain_02" width="300" height="160"> | <img src="./mountain/serious/beyond_belief_darker.jpeg" title="./mountain/serious/beyond_belief_darker." width="300" height="160"> | <img src="./mountain/serious/samori_01.jpg" title="./mountain/serious/samori_01" width="300" height="160"> |
+| <img src="./mountain/fun/aspectsides.jpg" title="./mountain/fun/aspectsides" width="300" height="160"> 
 </details>
 
 ## nord
@@ -76,10 +79,11 @@ Previews are formatted for viewing on desktop.
 
 | | | |
 |:---------:|:---------:|:----------:|
-| <img src="./nord/sky_03.jpg" title="./nord/sky_03" width="300" height="160"> | <img src="./nord/water_01.jpg" title="./nord/water_01" width="300" height="160"> | <img src="./nord/mountain_02.jpg" title="./nord/mountain_02" width="300" height="160"> | <img src="./nord/landscape_01.jpg" title="./nord/landscape_01" width="300" height="160"> |
-| <img src="./nord/sky_01.jpg" title="./nord/sky_01" width="300" height="160"> | <img src="./nord/water_02.jpg" title="./nord/water_02" width="300" height="160"> | <img src="./nord/mountain_03.jpg" title="./nord/mountain_03" width="300" height="160"> | <img src="./nord/pcb.png" title="./nord/pcb" width="300" height="160"> |
-| <img src="./nord/mountain_01.jpg" title="./nord/mountain_01" width="300" height="160"> | <img src="./nord/sky_02.jpg" title="./nord/sky_02" width="300" height="160"> | <img src="./nord/herakles.png" title="./nord/herakles" width="300" height="160"> | <img src="./nord/mountain_04.jpg" title="./nord/mountain_04" width="300" height="160"> |
-| <img src="./nord/birds.jpg" title="./nord/birds" width="300" height="160"> 
+| <img src="./nord/sky_03.jpg" title="./nord/sky_03" width="300" height="160"> | <img src="./nord/water_01.jpg" title="./nord/water_01" width="300" height="160"> | <img src="./nord/mountain_02.jpg" title="./nord/mountain_02" width="300" height="160"> | <img src="./nord/mountain_06.jpg" title="./nord/mountain_06" width="300" height="160"> |
+| <img src="./nord/landscape_01.jpg" title="./nord/landscape_01" width="300" height="160"> | <img src="./nord/mountain_05.jpg" title="./nord/mountain_05" width="300" height="160"> | <img src="./nord/sky_01.jpg" title="./nord/sky_01" width="300" height="160"> | <img src="./nord/water_02.jpg" title="./nord/water_02" width="300" height="160"> |
+| <img src="./nord/mountain_03.jpg" title="./nord/mountain_03" width="300" height="160"> | <img src="./nord/pcb.png" title="./nord/pcb" width="300" height="160"> | <img src="./nord/mountain_01.jpg" title="./nord/mountain_01" width="300" height="160"> | <img src="./nord/sky_02.jpg" title="./nord/sky_02" width="300" height="160"> |
+| <img src="./nord/herakles.png" title="./nord/herakles" width="300" height="160"> | <img src="./nord/mountain_04.jpg" title="./nord/mountain_04" width="300" height="160"> | <img src="./nord/birds.jpg" title="./nord/birds" width="300" height="160"> | <img src="./nord/mountain_07.jpg" title="./nord/mountain_07" width="300" height="160"> |
+
 </details>
 
 ## yoru
